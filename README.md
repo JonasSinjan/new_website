@@ -20,6 +20,8 @@ To deploy to your Github User Page (free yourusername.github.io website domain)
 
 You need to follow: https://www.mkdocs.org/user-guide/deploying-your-docs/
 
+mkdocs gh-deploy --config-file ../new_website/mkdocs.yml --remote-branch master
+
 ![deploy](./images/deploy_user_github.png)
 
 The master config file: `mkdocs.yml`
