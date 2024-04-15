@@ -10,7 +10,7 @@ nav:
   - Home: index.md
   - About: 
     - about/index.md
-    - Tavel: about/travel.md
+    - Travel: about/travel.md
     - Hobby Pictures: about/hobby_pics.md
   - CV: 
     - Education: cv/education.md 
@@ -21,7 +21,7 @@ nav:
     - Talks: cv/talks.md
   - Projects: 
     - projects/index.md
-    - Project 1: projects/project_1.md
+    - SODA: projects/soda.md
     - Project 2: projects/project_2.md
   - MSci: 
     - msci/index.md
@@ -53,7 +53,7 @@ theme:
       primary: deep orange
       accent: orange
       toggle:
-        icon: material/brightness-7
+        icon: material/weather-sunny
         name: Switch to light mode
 
     # Palette toggle for dark mode
@@ -62,7 +62,7 @@ theme:
       primary: deep orange
       accent: orange
       toggle:
-        icon: material/brightness-4
+        icon: material/weather-night
         name: Switch to dark mode
   font:
     text: Roboto

@@ -10,6 +10,6 @@
 
 # Quick Facts
 - Favourite Country: Australia
-- Languages: I speak Flemish (Dutch), English, and am currently improving my German
+- Languages: I speak Flemish (Dutch), English, and German
 - Hobbies: Cycling, Cricket, Hiking, Skiing, American Football (NFL)
 - Favourite Movie: The Boat That Rocked, with Apollo 13 a close second
