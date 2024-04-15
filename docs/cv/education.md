@@ -4,7 +4,7 @@ International Max Planck Research School for Solar System Science at the Univers
 
 Ph.D. Physics&emsp; [September 2020 - present]
 
-Expected Graduation Date: 06/2024
+Expected Graduation Date: 09/2024
 
 - Thesis: _Analysis and Calibration of SO/PHI‑HRT Data (Preliminary Title)_
 - Advisors: Prof. Dr. Sami K. Solanki, Dr. Johann Hirzberger, Prof. Dr. Ansgar Reiners
