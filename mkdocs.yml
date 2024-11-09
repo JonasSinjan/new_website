@@ -10,8 +10,7 @@ nav:
   - Home: index.md
   - About: 
     - about/index.md
-    - Travel: about/travel.md
-    - Hobby Pictures: about/hobby_pics.md
+    - Hobbies: about/hobbies.md
   - CV: 
     - Education: cv/education.md 
     - Experience: cv/experience.md
@@ -21,8 +20,11 @@ nav:
     - Talks: cv/talks.md
   - Projects: 
     - projects/index.md
-    - SODA: projects/soda.md
-    - Project 2: projects/project_2.md
+    - PhD: 
+      - SO/PHI SOAR Download: projects/soar_download.md
+      - SO/PHI-HRT and SDO/HMI file loader: projects/hrt_and_hmi_files.md
+      - SO/PHI-HRT WCS Correction: projects/sophihrt_wcs_corr.md
+      
   - MSci: 
     - msci/index.md
 
